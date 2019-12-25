@@ -1,0 +1,8 @@
+﻿  client.cpp
+client.obj : error LNK2001: unresolved external symbol __imp_recv
+client.obj : error LNK2001: unresolved external symbol __imp_connect
+client.obj : error LNK2001: unresolved external symbol __imp_socket
+client.obj : error LNK2001: unresolved external symbol __imp_send
+client.obj : error LNK2001: unresolved external symbol __imp_WSAStartup
+client.obj : error LNK2001: unresolved external symbol __imp_inet_pton
+C:\Users\amsingh\source\repos\Client\x64\Release\Client.exe : fatal error LNK1120: 6 unresolved externals
