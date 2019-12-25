@@ -1,0 +1,15 @@
+﻿  recursion.cpp
+C:\Users\amsingh\source\repos\Basics\Basics\src\recursion.cpp(6,2): error C2660: 'ctime_s': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(550,47): message : see declaration of 'ctime_s'
+C:\Users\amsingh\source\repos\Basics\Basics\src\recursion.cpp(9,3): error C2660: 'ctime_s': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(550,47): message : see declaration of 'ctime_s'
+C:\Users\amsingh\source\repos\Basics\Basics\src\recursion.cpp(14,3): error C2660: 'ctime_s': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(550,47): message : see declaration of 'ctime_s'
+C:\Users\amsingh\source\repos\Basics\Basics\src\recursion.cpp(21,2): error C2660: 'ctime_s': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(550,47): message : see declaration of 'ctime_s'
+C:\Users\amsingh\source\repos\Basics\Basics\src\recursion.cpp(27,2): error C2660: 'ctime_s': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(550,47): message : see declaration of 'ctime_s'
+C:\Users\amsingh\source\repos\Basics\Basics\src\recursion.cpp(36,2): error C2660: 'ctime_s': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(550,47): message : see declaration of 'ctime_s'
+C:\Users\amsingh\source\repos\Basics\Basics\src\recursion.cpp(49,2): error C2660: 'ctime_s': function does not take 1 arguments
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(550,47): message : see declaration of 'ctime_s'
